@@ -1,2 +1,2 @@
-# crytpo-zombies
+# crypto-zombies
 My learning experience with cryptozombies.io
